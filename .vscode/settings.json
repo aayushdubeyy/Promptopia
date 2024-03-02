@@ -1,0 +1,12 @@
+{
+    "editor.quickSuggestions": {
+        "comments": "inline",
+        "strings": "inline"
+    },
+    "emmet.useInlineCompletions": true,
+    "editor.inlineSuggest.showToolbar": "always",
+    "javascript.suggest.completeFunctionCalls": true,
+    "path-intellisense.autoTriggerNextSuggestion": true,
+    "emmet.showSuggestionsAsSnippets": true,
+    "editor.suggest.preview": true
+}
